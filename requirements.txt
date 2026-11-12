@@ -1,1 +1,3 @@
-# no dependencies
+aiogram==3.3.0
+requests==2.31.0
+
